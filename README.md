@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Water Footprint Calculator using ML**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **chitranshshukla2003@gmail.com**
 
